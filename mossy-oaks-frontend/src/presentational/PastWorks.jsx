@@ -3,7 +3,7 @@ import React from 'react';
 const PastWorks = () => {
     return (
         <div>
-            
+            <img/>
         </div>
     );
 }
