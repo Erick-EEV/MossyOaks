@@ -6,7 +6,9 @@ const About = () => {
       <h2>About</h2>
       <h1>Mossy Oaks</h1>
       <p>Our mission is to bring you the lawn of your dreams</p>
-      <img alt="Home Lawn Design" src="https://www.mymove.com/wp-content/uploads/2021/01/Landscaping-ideas_Breadmaker_Shutterstock.jpg"/>
+      <img alt="Home Lawn Design" src="https://www.mymove.com/wp-content/uploads/2021/01/Landscaping-ideas_Breadmaker_Shutterstock.jpg" width="500"
+
+      />
     </div>
   );
 };
